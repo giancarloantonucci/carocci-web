@@ -1,34 +1,34 @@
 @font-face {
     font-family: 'Carocci Web Bold';
-    src: url('caroccibol-webfont.woff');
+    src: url('caroccibol-webfont.woff') format('woff');
     font-weight: bold;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Carocci Web Italic';
-    src: url('carocciita-webfont.woff');
+    src: url('carocciita-webfont.woff') format('woff');
     font-weight: normal;
     font-style: italic;
 }
 
 @font-face {
     font-family: 'Carocci Web Regular';
-    src: url('caroccireg-webfont.woff');
+    src: url('caroccireg-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Carocci Sans Bold';
-    src: url('caroccisansbol-webfont.woff');
+    src: url('caroccisansbol-webfont.woff') format('woff');
     font-weight: bold;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Carocci Sans Regular';
-    src: url('caroccisansreg-webfont.woff');
+    src: url('caroccisansreg-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
