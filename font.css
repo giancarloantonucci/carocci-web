@@ -1,1 +1,34 @@
-@import url(./font/Carocci-Web.css);
+@font-face {
+    font-family: 'Carocci Web Bold';
+    src: url('carocci-web-bold.woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Carocci Web Italic';
+    src: url('carocci-web-italic.woff');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Carocci Web Regular';
+    src: url('carocci-web-regular.woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Carocci Sans Bold';
+    src: url('carocci-web-sans-bold.woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Carocci Sans Regular';
+    src: url('carocci-web-sans-regular.woff');
+    font-weight: normal;
+    font-style: normal;
+}
