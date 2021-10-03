@@ -20,14 +20,14 @@
 }
 
 @font-face {
-    font-family: 'Carocci Sans Bold';
+    font-family: 'Carocci Web Sans Bold';
     src: url('carocci-web-sans-bold.woff');
     font-weight: bold;
     font-style: normal;
 }
 
 @font-face {
-    font-family: 'Carocci Sans Regular';
+    font-family: 'Carocci Web Sans Regular';
     src: url('carocci-web-sans-regular.woff');
     font-weight: normal;
     font-style: normal;
