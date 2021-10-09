@@ -1,6 +1,6 @@
 # Carocci Web
 
-A font from Carocci Editore (www.carocci.it).
+A web version of Carocci Editore's font from https://www.carocci.it.
 
 ## Usage
 
