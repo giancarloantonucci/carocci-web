@@ -2,6 +2,6 @@
 
 A web version of Carocci Editore's font from https://www.carocci.it.
 
-## Usage
+## Usage on the web
 
-Add `https://cdn.jsdelivr.net/gh/giancarloantonucci/carocci-web/font.css` into the header of an HTML document to use it.
+Host it yourself or add `https://cdn.jsdelivr.net/gh/giancarloantonucci/carocci-web/font.css` into the header of an HTML document.
